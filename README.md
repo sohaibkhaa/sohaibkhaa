@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Sohaib khan
-![Mobile application development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Mobile application development](https://github.com/sohaibkhaa/sohaibkhaa/blob/main/banner.png)
 
 I'm Sohaib from Pakistan, and I do Mobile application development Specifically Native Android development and React-Native. I really enjoy learning new languages and frameworks.
 
