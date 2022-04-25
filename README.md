@@ -18,5 +18,5 @@ I'm Sohaib from Pakistan, and I do Mobile application development Specifically N
 
 ## Get in touch
 
-[<img src='https://img.icons8.com/color/48/000000/gmail-new.png' alt='gmail' height='40'>](sohaibkhan2468@gmail.com)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohaib-khan-android-developer/)  [<img src='https://img.icons8.com/fluency/48/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/sohaib_khan112/)  
+[<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohaib-khan-android-developer/)  [<img src='https://img.icons8.com/fluency/48/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/sohaib_khan112/)  
 
