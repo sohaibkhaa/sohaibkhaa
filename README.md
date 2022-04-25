@@ -2,7 +2,7 @@
 ![Mobile application development](https://github.com/sohaibkhaa/sohaibkhaa/blob/main/banner.png)
 
 ## About me
-I'm Sohaib from Pakistan, and I do Mobile application development Specifically Native Android development and React-Native. I really enjoy learning new languages and frameworks.
+I'm Sohaib, and I do Mobile application development Specifically Native Android development and React-Native. I really enjoy learning new languages and frameworks.
 
 ## Skills and Experience
 
