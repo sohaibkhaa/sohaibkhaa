@@ -8,6 +8,9 @@ I'm Sohaib, and I do Mobile application development Specifically Native Android 
 
 * Kotlin
 * Java
+* MVVM
+* DI
+* Retrofit
 * React Native
 * React
 * HTML
