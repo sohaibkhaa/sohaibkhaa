@@ -11,7 +11,10 @@ I'm Sohaib, and I do Mobile application development Specifically Native Android 
 * MVVM
 * DI
 * Retrofit
+* Room
 * React Native
+* 
+## Other Skills
 * React
 * HTML
 * CSS
