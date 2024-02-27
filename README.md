@@ -2,16 +2,16 @@
 ![Mobile application development](https://github.com/sohaibkhaa/sohaibkhaa/blob/main/banner.png)
 
 ## About me
-I'm Sohaib, I do Android application development. I really enjoy learning new languages and frameworks.
+I'm Sohaib with 5 years of experience in Android application development. I really enjoy learning new languages and frameworks.
 
 ## Skills and Experience
 
 * Kotlin
 * Java
+* Jetpack Compose
 * MVVM
+* Clean Code
 * DI
-* Retrofit
-* Room
 * React Native
 
 - 🔭 I’m currently working as a Freelancer. 
